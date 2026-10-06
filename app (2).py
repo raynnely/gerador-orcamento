@@ -52,7 +52,7 @@ EMPRESAS = {
         "telefone": "(84) 99848-2455",
         "endereco": "Antonio Vitalino Reinaldo, 125 - Santa Delmira",
         "cidade": "Mossoró/RN",
-        "email": "mg@hotmail.com",
+        "email": "jonatanjrr@hotmail.com",
         "logo": "j_midia.png",
     },
 
